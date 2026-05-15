@@ -2,6 +2,10 @@
 
 Kite's API client replaces Postman for sending and organizing HTTP requests. Native Rust HTTP engine — no CORS issues, no browser limitations.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/screenshot-api-client.png" alt="Kite — API Client" width="700" />
+</p>
+
 ---
 
 ## Protocols
@@ -162,3 +166,7 @@ Start a local mock server to simulate API responses without a backend.
 4. Hit `localhost:4001/your-route` — get your mock response
 
 Supports dynamic responses, delays, and header matching.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/screenshot-mock-server.png" alt="Kite — Mock Server" width="700" />
+</p>

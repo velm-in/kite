@@ -6,7 +6,7 @@ Kite checks for updates automatically and installs them with one click.
 
 ## How it works
 
-1. On launch (and every 30 minutes), Kite checks the [latest release](https://github.com/kitebyvelm/kite/releases/latest) for a new version
+1. On launch (and every 30 minutes), Kite checks the [latest release](https://github.com/velm-in/kite/releases/latest) for a new version
 2. If an update is available, a badge appears in the status bar: **"v0.2.0 available"**
 3. Click the badge to download and install
 4. Kite restarts with the new version
@@ -26,7 +26,7 @@ If the signature doesn't match, the update is rejected. This prevents tampered b
 Kite checks this URL for update metadata:
 
 ```
-https://github.com/kitebyvelm/kite/releases/latest/download/latest.json
+https://github.com/velm-in/kite/releases/latest/download/latest.json
 ```
 
 The `latest.json` file is generated automatically by the release CI workflow and contains:
@@ -38,7 +38,7 @@ The `latest.json` file is generated automatically by the release CI workflow and
 
 ## Manual download
 
-If auto-update fails or you prefer manual installation, download the latest release directly from the [releases page](https://github.com/kitebyvelm/kite/releases/latest).
+If auto-update fails or you prefer manual installation, download the latest release directly from the [releases page](https://github.com/velm-in/kite/releases/latest).
 
 ---
 

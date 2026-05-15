@@ -2,11 +2,15 @@
 
 Get from zero to inspecting your first webhook in under 60 seconds.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/screenshot-landing.png" alt="Kite" width="700" />
+</p>
+
 ---
 
 ## Install
 
-Download the latest release for your platform from the [releases page](https://github.com/kitebyvelm/kite/releases/latest).
+Download the latest release for your platform from the [releases page](https://github.com/velm-in/kite/releases/latest).
 
 | Platform | File |
 |----------|------|

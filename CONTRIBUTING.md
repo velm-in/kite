@@ -6,7 +6,7 @@ Thanks for your interest in contributing. Here's how to help.
 
 ## Reporting bugs
 
-[Open a bug report](https://github.com/kitebyvelm/kite/issues/new?template=bug_report.md) with:
+[Open a bug report](https://github.com/velm-in/kite/issues/new?template=bug_report.md) with:
 
 - What you expected to happen
 - What actually happened
@@ -18,7 +18,7 @@ Thanks for your interest in contributing. Here's how to help.
 
 ## Requesting features
 
-[Open a feature request](https://github.com/kitebyvelm/kite/issues/new?template=feature_request.md) with:
+[Open a feature request](https://github.com/velm-in/kite/issues/new?template=feature_request.md) with:
 
 - What problem you're trying to solve
 - How you'd expect it to work
@@ -48,5 +48,6 @@ Found a typo or unclear docs? PRs to the `docs/` folder are welcome.
 
 ## Community
 
-- [Issues](https://github.com/kitebyvelm/kite/issues) — bugs, features, questions
+- [Issues](https://github.com/velm-in/kite/issues) — bugs, features, questions
 - [Twitter](https://twitter.com/kitebyvelm) — updates and announcements
+- [Website](https://kite.velm.in) — download and docs

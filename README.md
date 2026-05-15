@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kite-logo.png" alt="Kite" width="80" />
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/kite-logo.png" alt="Kite" width="100" />
 </p>
 
 <h1 align="center">Kite</h1>
@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/kitebyvelm/kite/releases/latest"><img src="https://img.shields.io/github/v/release/kitebyvelm/kite?style=flat-square&color=f97316" alt="Latest Release" /></a>
-  <a href="https://github.com/kitebyvelm/kite/releases"><img src="https://img.shields.io/github/downloads/kitebyvelm/kite/total?style=flat-square&color=10b981" alt="Downloads" /></a>
-  <a href="https://github.com/kitebyvelm/kite/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/velm-in/kite/releases/latest"><img src="https://img.shields.io/github/v/release/velm-in/kite?style=flat-square&color=f97316" alt="Latest Release" /></a>
+  <a href="https://github.com/velm-in/kite/releases"><img src="https://img.shields.io/github/downloads/velm-in/kite/total?style=flat-square&color=10b981" alt="Downloads" /></a>
+  <a href="https://github.com/velm-in/kite/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License" /></a>
   <a href="https://kite.velm.in"><img src="https://img.shields.io/badge/website-kite.velm.in-orange?style=flat-square" alt="Website" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kitebyvelm/kite/releases/latest">Download</a> ·
+  <a href="https://github.com/velm-in/kite/releases/latest">Download</a> ·
   <a href="https://kite.velm.in">Website</a> ·
   <a href="docs/getting-started.md">Docs</a> ·
-  <a href="https://github.com/kitebyvelm/kite/issues">Report Bug</a>
+  <a href="https://github.com/velm-in/kite/issues">Report Bug</a>
 </p>
 
 ---
@@ -33,17 +33,21 @@ Four tools. Four tabs. Four subscriptions.
 
 **Kite replaces all of them.**
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/screenshot-api-client.png" alt="Kite — API Client" width="800" />
+</p>
+
 ---
 
 ## Download
 
 | Platform | Architecture | Download |
 |----------|-------------|----------|
-| macOS | Apple Silicon (M1+) | [Download .dmg](https://github.com/kitebyvelm/kite/releases/latest) |
-| macOS | Intel | [Download .dmg](https://github.com/kitebyvelm/kite/releases/latest) |
-| Windows | x64 | [Download .msi](https://github.com/kitebyvelm/kite/releases/latest) |
-| Linux | x64 | [Download .AppImage](https://github.com/kitebyvelm/kite/releases/latest) |
-| Linux | x64 | [Download .deb](https://github.com/kitebyvelm/kite/releases/latest) |
+| macOS | Apple Silicon (M1+) | [Download .dmg](https://github.com/velm-in/kite/releases/latest) |
+| macOS | Intel | [Download .dmg](https://github.com/velm-in/kite/releases/latest) |
+| Windows | x64 | [Download .msi](https://github.com/velm-in/kite/releases/latest) |
+| Linux | x64 | [Download .AppImage](https://github.com/velm-in/kite/releases/latest) |
+| Linux | x64 | [Download .deb](https://github.com/velm-in/kite/releases/latest) |
 
 > Free forever for local features. No account required.
 
@@ -59,6 +63,10 @@ Full API client with collections, environments, and variables. Import your Postm
 - Variable substitution with `{{env}}` syntax, 5-level nesting
 - Pre/post request scripts with test assertions
 - Cookie jar, request history, batch runner
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/screenshot-collections.png" alt="Kite — Collections" width="800" />
+</p>
 
 ### Receive webhooks <sub>replaces webhook.site</sub>
 
@@ -84,6 +92,10 @@ Built-in terminal with SSH host management. Send API requests FROM your staging 
 - Import from `~/.ssh/config` on first launch
 - Port forwarding, SFTP file browser, command snippets
 - "Send from remote" — execute requests on any connected server
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/screenshot-ssh.png" alt="Kite — SSH Terminal" width="800" />
+</p>
 
 ### Monitor & alert <sub>replaces Datadog</sub>
 
@@ -203,8 +215,8 @@ You'd need Postman + ngrok + webhook.site + a monitoring tool to match what Kite
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-Found a bug? [Open an issue](https://github.com/kitebyvelm/kite/issues/new?template=bug_report.md).
-Have an idea? [Request a feature](https://github.com/kitebyvelm/kite/issues/new?template=feature_request.md).
+Found a bug? [Open an issue](https://github.com/velm-in/kite/issues/new?template=bug_report.md).
+Have an idea? [Request a feature](https://github.com/velm-in/kite/issues/new?template=feature_request.md).
 
 ---
 

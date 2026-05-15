@@ -2,6 +2,10 @@
 
 Kite includes a full SSH terminal, SFTP file browser, port forwarding, and the ability to run API requests from remote servers.
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/velm-in/kite/main/assets/screenshot-ssh.png" alt="Kite — SSH Terminal" width="700" />
+</p>
+
 ---
 
 ## SSH terminal
