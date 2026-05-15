@@ -158,7 +158,7 @@ Import from Postman, Bruno, Insomnia, and OpenAPI specs. Export to cURL.
 
 ## Pricing
 
-| | Free | Pro — $12/mo | Team — $29/mo |
+| | Free | Pro — $5/mo | Team — $19/mo |
 |---|---|---|---|
 | API client | Full | Full | Full |
 | Webhook endpoints | 1 | 10 | 50 |
@@ -192,7 +192,7 @@ Free is free forever. No credit card. No trial expiry.
 
 ## Comparison
 
-You'd need Postman + ngrok + webhook.site + a monitoring tool to match what Kite does alone. That's $40–70/month vs $0–12.
+You'd need Postman + ngrok + webhook.site + a monitoring tool to match what Kite does alone. That's $40–70/month vs $0–5.
 
 | Feature | Kite | Postman | ngrok | webhook.site |
 |---------|------|---------|-------|-------------|
